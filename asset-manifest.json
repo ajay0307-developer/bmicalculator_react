@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmicalculator_react/static/css/main.6c7b882e.css",
+    "main.js": "/bmicalculator_react/static/js/main.f44a635d.js",
+    "static/js/787.4bb08e37.chunk.js": "/bmicalculator_react/static/js/787.4bb08e37.chunk.js",
+    "index.html": "/bmicalculator_react/index.html",
+    "main.6c7b882e.css.map": "/bmicalculator_react/static/css/main.6c7b882e.css.map",
+    "main.f44a635d.js.map": "/bmicalculator_react/static/js/main.f44a635d.js.map",
+    "787.4bb08e37.chunk.js.map": "/bmicalculator_react/static/js/787.4bb08e37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c7b882e.css",
+    "static/js/main.f44a635d.js"
+  ]
+}
